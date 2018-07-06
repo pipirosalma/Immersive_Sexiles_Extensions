@@ -1,16 +1,16 @@
 {
 	"name": "Immersive Sexiles Extensions",
 	"description": "This mod adds custom content to the server Immersive Exiles. Featuring a non-limited economy driven by exclusive items and features working as gold sinks. You'll find new customized weapons, additional recipes for religions, new placeables and Tavern vendors to power your roleplay hubs.\n\nOur vendors and objects can get mischievous: with slave cuffs and collar that actually restrict movement, a blindfold, and a strap on to represent thrall mechanics with players or spice it up in your castle's dungeon\n\n- Special thanks for Jostech who not jsut helped me each time I stuck but gave the basics of the barber system \n\nserver addres:  [[RP]IMMERSIVE SEXILES[+18]   [185.85.84.173:7777] ",
-	"changeNote": "1.6.8\n[list]\n[*] pickup/lock function for containers and worktables\n[*] editable journals and notes\n[*] lock/unlock function for doors\n[*] elevator speed\n[*] water well unique placement sphere reduction\n[*] minor clean up on unused assets\n[*] improved and fixed Thrall Pacifier items\n[*] only the owner be able to move the thrall worker at the unlocked workbenches\n[/list] ",
+	"changeNote": "1.6.12\n[list]\n[*] door and notes fix\n[/list] ",
 	"author": "Shendelzare",
 	"authorUrl": "",
 	"versionMajor": 1,
 	"versionMinor": 6,
-	"versionBuild": 8,
+	"versionBuild": 13,
 	"bRequiresLoadOnStartup": false,
 	"steamPublishedFileId": "1164148209",
 	"steamVisibility": 0,
 	"folderName": "Immersive_Sexiles_Extensions",
-	"revisionNumber": 100728,
-	"snapshotId": 18311
+	"revisionNumber": 102943,
+	"snapshotId": 18618
 }
